@@ -1,2 +1,4 @@
-keep it simple, stupid
+#### KISS
+
+- keep it simple, stupid
 
